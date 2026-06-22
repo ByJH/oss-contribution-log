@@ -1,6 +1,6 @@
 # oss-contribution-log
 
-Status: Phase I In Progress
+Status: Phase II In Progress
 Project: Daft (Eventual-Inc/Daft)
 Issue #3792: implement the `split_part` string expression
 https://github.com/Eventual-Inc/Daft/issues/3792
